@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Gnz11
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on using code for twilio
 
 <!---
